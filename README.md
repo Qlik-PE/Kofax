@@ -121,7 +121,7 @@ Link to Public [Kofax Qlik Application](https://pe.qlik.com/hub/stream/9e2c6341-
 Partner Engineering Qlik Sense Server for Kofax Analytics for Total Agility(KAFTA) Application should look like the following:  
 ![Qlik Sense Hub](./media/image-server.jpeg)
 
-Once you Click on the Kofax Application you can see that Qlik Application Sheets are laid out in functional areas for easy navigation and intuitive understand of data.
+Once you Click on the Kofax Application you can see that Qlik Application Sheets are laid out in functional areas for easy navigation and intuitive understanding of the data.
 
 Here are some screen captures of what the sheets look like:  
 
@@ -148,7 +148,7 @@ Quick Links for Convenience
 
 ## Download Sample App to your Qlik Sense Instance  
 
-**Download Sample Kofax Qlik Application [here](./application/KAFTA.qvf).**
+**Download Sample Kofax Qlik Application [here](./applications/KAFTA.qvf).**
 
 Following options for you to customize and test the application  
 
