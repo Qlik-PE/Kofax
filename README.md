@@ -92,7 +92,7 @@ The Data  Model for this Qlik Sense app uses following base tables
 
 The Data is loaded using a Qlik Sense mechanism called Data Load Editor.  This process will load the data from Kofax Analytics for Total Agility into Qliks Associative Engine(QIX Engine) and associate the data based on metadata given from data source or manipulated by code.
 Thie allows the user to click any field, chart and value to show relevant values in context.
-Please look at this [link](https://www.qlik.com/us/products/associative-difference) to view and understand how Qlik works when working with data.
+Please look at explanation of Qlik's Associative Technology in this [link](https://www.qlik.com/us/products/associative-difference) to view and understand how Qlik works when working with data.
 
 #### For our integration with Kofak; Qlik Partner Engineering Team has made Sample Kofax Qlik Applicatio availble for public testing as well as available to load into your own Qlik Enterprise server/ Qlik Cloud Service, and Qlik Desktop.
 
