@@ -24,8 +24,6 @@ Final Edit for V1  | 7-May-2020 | John Park | 1.0         |
 
 # Table of Contents
 
---------------------
-
 [**Summary**](#summary)  
 
 [**Part 1 - Setup**](#part-1)
