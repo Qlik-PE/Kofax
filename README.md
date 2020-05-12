@@ -103,10 +103,10 @@ The Samples Kofax Qlik Application refered in [How to get started](#part-4) sect
 ### Viewing Data
 
 One the Data has been loaded in Qlik Sense via your connections.  
-Qlik sense app will show the follwowing inside Qlik Sene Hub.  
+Kofax Qlik Sense app will show the follwowing inside Qlik Sene Hub.  
 ![Qlik Sense Hub](./media/image-splash.jpeg)
 
-You Sample Kofax App will lay out the data in the following with Application Name and Sheets.  Click on Any Sheets and start exploring your data.
+You Sample Kofax Qlik Sense App will lay out the data in the following with Name and Sheets.  Click on Any Sheets and start exploring your data.
 
 ![Qlik App Layout](./media/image-layout.jpeg)
 
