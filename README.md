@@ -148,13 +148,13 @@ Quick Links for Convenience
 
 ## Download Sample App to your Qlik Sense Instance  
 
-**Download Sample Kofax Qlik Application [here](./applications/KAFTA.qvf).**
+**Download Sample Kofax Qlik Application [here](https://github.com/Parkman328/Kofax/raw/master/applications/KAFTA.qvf).**
 
 Following options for you to customize and test the application  
 
 1. Customer that own Qlik Sense Enterprise - Upload Kofax Qlik App to Qlik Enterprise QMC(Qlik Management Console) via these [instructions](https://help.qlik.com/en-US/sense/June2019/Subsystems/ManagementConsole/Content/Sense_QMC/import-apps.htm)
 
-1. Try our SaaS Servioce - Qlik Cloud Service(QCS) - Upload QCS via these [instructions](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Apps/create-app-cloud-hub.htm)
+1. Try our SaaS Service [Qlik Sense Business](https://www.qlik.com/us/trial/qlik-sense-business) and use Qlik Cloud Service(QCS) - Upload to QCS via these [instructions](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Apps/create-app-cloud-hub.htm)
 
 1. Qlik Sense Desktop(Expiring June 30th 2020) - Open Kofax Qlik Sense App on Qlik Sense Desktop via these [instructions](https://help.qlik.com/en-US/sense/April2020/Subsystems/Hub/Content/Sense_Hub/Apps/open-app-dt.htm)
 
@@ -162,11 +162,12 @@ Following options for you to customize and test the application
 
 ### Testing and Additional Information
 
-If you would like additional assistance with scripting, embedding and further use cases please contact Qlik Sales team for support.
+If you would like additional assistance with scripting, embedding and further use cases please contact Qlik Sales team for support. 
 
 If there are questions about how to use Qlik Please go to [Qlik's Website](www.qlik.com) to explore.  For further learning and discussions and view [Qlik Help Videos](https://help.qlik.com/en-US/videos) or post questions on [Qlik Community Site
 ](https://community.qlik.com/)
 
-For Specific Kofax questions please refer to Kofax manuals or contact your sales teams.
+For Specific Kofax questions please refer to Kofax manuals or contact your sales teams.  
+[Kofax Website](www.kofax.com)
 
 Other Information can be found in [Qlik Community Site](https://community.qlik.com/t5/Technology-Partners-Ecosystem/ct-p/qlik-ecosystem "Qlik Technology Partner Eco System") in Technology Partner Sections where users can post questions and get them answered specific to this solution.
